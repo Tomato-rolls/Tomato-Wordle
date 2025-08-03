@@ -12,10 +12,6 @@ Usage:
        - Provides real-time suggestions based on your game feedback
        - Example: python solver.py --length 5 --interactive
 
-    3. Manual Guess Mode:
-       - Step-by-step guidance with entropy-ranked suggestions
-       - Example: python solver.py --length 5 --manual-guess
-
     Common Arguments:
         --length       Word length (3-15), default=5
         --target       Specify target word for auto mode
@@ -28,7 +24,7 @@ Usage:
 
 """
 Tomato Wordle Solver
-Copyright (c) 2025 Tomato
+Copyright (c) 2025 Tomato-rolls
 
 Licensed under the MIT License.
 """
